@@ -1,2 +1,2 @@
-# Agriput.github.io
+# IamSadiq.github.io
 Agricultural Input Solutions
