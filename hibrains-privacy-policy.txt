@@ -1,6 +1,6 @@
 Hibrains requests for user email and password, upon registration.
-User can login using email or username generated from the email
-and password.
+Users can login using registered emails or usernames generated 
+from their emails and using their password.
 
 Our User's information is not being shared with any 3rd party, we
 respect the user privacy policy and as such we do our best to 
